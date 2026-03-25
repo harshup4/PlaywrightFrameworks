@@ -1,0 +1,18 @@
+{
+  "user_credentials":
+  [
+    {
+    "userEmail": "harshup1773920138@yopmail.com",
+    "userPassword": "Pass_1773920138%"
+    },
+    {
+      "userEmail": "harshup1773920155@yopmail.com",
+      "userPassword": "Pass_1773920155%"
+    }
+  ],
+  "orders":
+  [
+    {"country":"India","productOrderedId":"6960eae1c941646b7a8b3ed3"},
+    {"country":"India","productOrderedId":"6960ea76c941646b7a8b3dd5"}
+  ]
+}
